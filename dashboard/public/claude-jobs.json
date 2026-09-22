@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-21T03:04:12.891526+00:00",
-  "totalJobs": 93,
+  "lastUpdated": "2026-09-22T03:04:22.518153+00:00",
+  "totalJobs": 90,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -20,26 +20,6 @@
       "source": "Anthropic",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5427479008",
       "postedAt": "2026-09-18T18:50:40-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5369102008",
-      "company": "Anthropic",
-      "position": "Engineering Manager, Labs",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "At Anthropic, we're building AI systems that are safe, beneficial, and transformative. Our mission is to develop AI that benefits humanity, and we believe the most powerful capabilities emerge when we thoughtfully bridge the gap between research breakthroughs and real-world applications. Anthropic...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5369102008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5369102008",
-      "postedAt": "2026-09-17T20:13:04-04:00",
       "tags": [
         "Rust",
         "AWS",
@@ -1612,26 +1592,6 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "anth-5255912008",
-      "company": "Anthropic",
-      "position": "Engineering Manager, Enterprise",
-      "location": "San Francisco, CA",
-      "remote": false,
-      "salary": "",
-      "description": "Enterprise is central to Anthropic's mission. The organizations that could benefit most from Claude are often the most demanding buyers, with rigorous requirements around security, compliance, and control. We believe earning their trust is essential to ensuring AI benefits the world broadly. We're...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5255912008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5255912008",
-      "postedAt": "2026-06-12T23:46:11-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
       "id": "anth-5251609008",
       "company": "Anthropic",
       "position": "Technical Program Manager, Apps Platform",
@@ -1693,28 +1653,6 @@
         "Rust",
         "AWS",
         "GCP",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5192805008",
-      "company": "Anthropic",
-      "position": "Applied AI Architect, Commercial",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping customers understand the value of Claude and paint the vision on how they can successfully integrate and deploy Claude into their technology stack. You'll combine...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008",
-      "postedAt": "2026-04-17T16:25:27-04:00",
-      "tags": [
-        "Python",
-        "Rust",
-        "Go",
-        "AWS",
         "Claude Code",
         "Anthropic"
       ],
