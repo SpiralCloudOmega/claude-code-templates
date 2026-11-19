@@ -1,12 +1,36 @@
 {
-  "lastUpdated": "2026-11-18T03:03:01.504824+00:00",
-  "totalJobs": 100,
+  "lastUpdated": "2026-11-19T03:02:26.821899+00:00",
+  "totalJobs": 104,
   "sources": [
     "Anthropic",
     "HackerNews",
-    "RemoteOK"
+    "RemoteOK",
+    "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "anth-5483945008",
+      "company": "Anthropic",
+      "position": "Applied AI Engineer, Commercial",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "As an Applied AI Engineer on the Commercial team at Anthropic, you will be a trusted technical advisor to the companies that run the real economy, across software, financial services, healthcare, retail, manufacturing, and professional services, as they go from using Claude to building on it....",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
+      "postedAt": "2026-11-18T11:26:55-05:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "Rust",
+        "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "anth-5484035008",
       "company": "Anthropic",
@@ -605,6 +629,66 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "wwr-toptal-ai-engineer-agentic-systems",
+      "company": "Toptal",
+      "position": "AI Engineer - Agentic Systems",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Summary We are seeking a highly hands-on AI Engineer with a proven track record of shipping agentic AI systems into production for enterprise environments. In this role, you will design, build, and deploy production-grade AI agents capable of multi-agent orchestration, complex tool...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
+      "postedAt": "2026-10-22T18:54:42+00:00",
+      "tags": [
+        "GCP",
+        "Rails"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-offerup-software-development-engineer-ii-remote-colombia",
+      "company": "OfferUp",
+      "position": "Software Development Engineer II (Remote @ Colombia)",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Remote @ Colombia About the role: The OfferUp Connect team builds the moments that turn a listing into a sale. Every chat between buyers and sellers, every offer notification, and every saved-search alert runs through services we own, from messaging and notifications to location,...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+      "postedAt": "2026-10-22T07:31:08+00:00",
+      "tags": [
+        "TypeScript",
+        "Rust",
+        "Node.js",
+        "AWS",
+        "Kubernetes",
+        "Claude Code",
+        "Java",
+        "Vue.js",
+        "Redis"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-vertex-marketing-group-distribution-engineer",
+      "company": "Vertex Marketing Group",
+      "position": "Distribution Engineer",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Bulgaria URL: https://vertexmg.com Scale our distribution by code: a fleet of real devices, iPhones first and Android too, plus platform APIs and AI agents, posting across many accounts and surfaces. You work directly with the founder. Most content gets made and then dies at a few...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
+      "postedAt": "2026-10-20T11:32:37+00:00",
+      "tags": [
+        "Claude Code"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "anth-5456581008",
